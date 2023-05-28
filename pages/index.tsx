@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           {/* <Image src="/imgs/token.jpg" alt="NFT drop" width={77} height={77} /> */}
           <h2 className={styles.selectBoxTitle}>Mint a BUSKIE NFT</h2>
           <p className={styles.selectBoxDescription}>
-             Limited NFTs . Join VIP discord . Unlock Exclusive Content . Earn STREET tokens
+             <b>Rarity</b> ranges from 1 <b>Common</b> to 10 <b>Lengendary</b>. Limited Rare NFTs . Join VIP discord . Unlock Exclusive Content . Earn STREET tokens
           </p>
         </div>
 
